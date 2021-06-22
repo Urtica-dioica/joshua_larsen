@@ -10,7 +10,7 @@ title: Joshua Larsen
 description: A blog about the projects, thoughts, and musings of Joshua Larsen
 github_username: Urtica-dioica
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "joshua-larsen"
+github_repo: "joshua_larsen"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
